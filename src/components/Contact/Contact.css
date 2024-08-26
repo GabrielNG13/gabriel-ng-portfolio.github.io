@@ -1,0 +1,13 @@
+.projects {
+    padding: 50px;
+    background-color: #e8e8e8;
+  }
+  
+  .projects ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .projects ul li {
+    margin: 15px 0;
+  }  
